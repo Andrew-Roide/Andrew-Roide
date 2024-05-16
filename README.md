@@ -2,6 +2,7 @@
 <h3 align="center">Hi, I'm Andrew Roide, a Full Stack Web Developer</h3>
 <p>My ability to solve problems, maintain attention to detail, and willfulness to learn has advanced my ability to make clear, concise, and maintainable code. I’m one to always learn by doing while also knowing when to ask the right questions. Whether it be collaborating as a valuable member of a team, or working independently on a project, I always infuse my pursuits with a dynamic blend of passion and proficiency. Being able to create, tinker, or solve problems, brings out my passion to attend to clients needs. Witnessing a client's satisfaction with their website brings me immense joy and further motivates my dedication to delivering exceptional results.
 </p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrew-roide) 
 
