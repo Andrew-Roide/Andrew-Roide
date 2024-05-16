@@ -1,6 +1,5 @@
 <h1 align="center">About Me ✍</h1>
 <h2 align="center">Hi, I'm Andrew Roide, a Full Stack Web Developer</h2>
-<h3 align="center">A passionate Full Stack Developer who's always learning</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrew-roide) 
